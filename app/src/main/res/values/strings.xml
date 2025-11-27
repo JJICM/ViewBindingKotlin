@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">NavegacionBoton</string>
+    <string name="btnNavegar">Show</string>
+    <string name="txtTitulo1">Activity 1</string>
+    <string name="txtTitulo2">Activity 2</string>
+    <string name="msg_click_navegar">Has cambiado de actividad</string>
+    <string name="txtNombre">Nombre</string>
+    <string name="txtApellidos">Apellidos</string>
+    <string name="txtNumero">Numero</string>
+    <string name="btnNavegar2">Back</string>
+</resources>
